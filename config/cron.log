@@ -1,0 +1,84 @@
+rake aborted!
+/home/ub/rails/mail/lib/tasks/cron.rake:4: syntax error, unexpected '=', expecting ')'
+  unsent = Email.where(:sent = nil AND :date == Date.today)
+                              ^
+/home/ub/rails/mail/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting keyword_end
+/home/ub/rails/mail/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/mail/lib/tasks/cron.rake:4: syntax error, unexpected '=', expecting ')'
+  unsent = Email.where(:sent = nil AND :date == Date.today)
+                              ^
+/home/ub/rails/mail/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting keyword_end
+/home/ub/rails/mail/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/mail/lib/tasks/cron.rake:4: syntax error, unexpected '=', expecting ')'
+  unsent = Email.where(:sent = nil AND :date == Date.today)
+                              ^
+/home/ub/rails/mail/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting keyword_end
+/home/ub/rails/mail/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/mail/lib/tasks/cron.rake:4: syntax error, unexpected '=', expecting ')'
+  unsent = Email.where(:sent = nil AND :date == Date.today)
+                              ^
+/home/ub/rails/mail/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting keyword_end
+/home/ub/rails/mail/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/mail/lib/tasks/cron.rake:4: syntax error, unexpected '=', expecting ')'
+  unsent = Email.where(:sent = nil AND :date == Date.today)
+                              ^
+/home/ub/rails/mail/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting keyword_end
+/home/ub/rails/mail/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/mail/lib/tasks/cron.rake:4: syntax error, unexpected '=', expecting ')'
+  unsent = Email.where(:sent = nil AND :date == Date.today)...
+                              ^
+/home/ub/rails/mail/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting keyword_end
+... = nil AND :date == Date.today)  #query db for unsent messag...
+...                               ^
+/home/ub/rails/mail/lib/tasks/cron.rake:10: syntax error, unexpected $end, expecting keyword_end
+/home/ub/rails/mail/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/mail/lib/tasks/cron.rake:4: syntax error, unexpected tCONSTANT, expecting ')'
+... = Email.where(:sent => nil AND :date == Date.today)  #query...
+...                               ^
+/home/ub/rails/mail/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting keyword_end
+...=> nil AND :date == Date.today)  #query db for unsent messag...
+...                               ^
+/home/ub/rails/mail/lib/tasks/cron.rake:10: syntax error, unexpected $end, expecting keyword_end
+/home/ub/rails/mail/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/mail/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting tASSOC
+...nt => nil, :date == Date.today)  #query db for unsent messag...
+...                               ^
+/home/ub/rails/mail/lib/tasks/cron.rake:10: syntax error, unexpected $end, expecting keyword_end
+/home/ub/rails/mail/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/mail/lib/tasks/cron.rake:10: syntax error, unexpected $end, expecting keyword_end
+/home/ub/rails/mail/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/mail/lib/tasks/cron.rake:10: syntax error, unexpected $end, expecting keyword_end
+/home/ub/rails/mail/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/mail/lib/tasks/cron.rake:10: syntax error, unexpected $end, expecting keyword_end
+/home/ub/rails/mail/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+Could not find gem 'jquery-rails (>= 0.2.6, runtime)' in any of the gem sources listed in your Gemfile.
+Try running `bundle install`.
+rake aborted!
+can't convert nil into Hash
+
+(See full trace by running task with --trace)
+rake aborted!
+can't convert nil into Hash
+
+(See full trace by running task with --trace)
