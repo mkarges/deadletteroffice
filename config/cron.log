@@ -82,3 +82,307 @@ rake aborted!
 can't convert nil into Hash
 
 (See full trace by running task with --trace)
+Checking...
+Checking...
+Checking...
+Checking...
+Checking...
+Checking...
+Checking...
+Checking...
+Checking...
+Checking...
+Checking...
+Checking...
+Checking...
+Checking...
+Checking...
+Checking...
+Checking...
+Checking...
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+undefined local variable or method `logger' for main:Object
+
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ',', expecting ')'
+...ere(:sent => nil, ("date == ?", Date.today))  #query db for ...
+...                               ^
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting tASSOC
+...nil, ("date == ?", Date.today))  #query db for unsent messag...
+...                               ^
+/home/ub/rails/deadletteroffice/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ',', expecting ')'
+...ere(:sent => nil, ("date == ?", Date.today))  #query db for ...
+...                               ^
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting tASSOC
+...nil, ("date == ?", Date.today))  #query db for unsent messag...
+...                               ^
+/home/ub/rails/deadletteroffice/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ',', expecting ')'
+...ere(:sent => nil, ("date == ?", Date.today))  #query db for ...
+...                               ^
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting tASSOC
+...nil, ("date == ?", Date.today))  #query db for unsent messag...
+...                               ^
+/home/ub/rails/deadletteroffice/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ',', expecting ')'
+...ere(:sent => nil, ("date == ?", Date.today))  #query db for ...
+...                               ^
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting tASSOC
+...nil, ("date == ?", Date.today))  #query db for unsent messag...
+...                               ^
+/home/ub/rails/deadletteroffice/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ',', expecting ')'
+...ere(:sent => nil, ("date == ?", Date.today))  #query db for ...
+...                               ^
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting tASSOC
+...nil, ("date == ?", Date.today))  #query db for unsent messag...
+...                               ^
+/home/ub/rails/deadletteroffice/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ',', expecting ')'
+...ere(:sent => nil, ("date == ?", Date.today))  #query db for ...
+...                               ^
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting tASSOC
+...nil, ("date == ?", Date.today))  #query db for unsent messag...
+...                               ^
+/home/ub/rails/deadletteroffice/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ',', expecting ')'
+...ere(:sent => nil, ("date == ?", Date.today))  #query db for ...
+...                               ^
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting tASSOC
+...nil, ("date == ?", Date.today))  #query db for unsent messag...
+...                               ^
+/home/ub/rails/deadletteroffice/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ',', expecting ')'
+...ere(:sent => nil, ("date == ?", Date.today))  #query db for ...
+...                               ^
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting tASSOC
+...nil, ("date == ?", Date.today))  #query db for unsent messag...
+...                               ^
+/home/ub/rails/deadletteroffice/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ',', expecting ')'
+...ere(:sent => nil, ("date == ?", Date.today))  #query db for ...
+...                               ^
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting tASSOC
+...nil, ("date == ?", Date.today))  #query db for unsent messag...
+...                               ^
+/home/ub/rails/deadletteroffice/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)
+rake aborted!
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ',', expecting ')'
+...ere(:sent => nil, ("date == ?", Date.today))  #query db for ...
+...                               ^
+/home/ub/rails/deadletteroffice/lib/tasks/cron.rake:4: syntax error, unexpected ')', expecting tASSOC
+...nil, ("date == ?", Date.today))  #query db for unsent messag...
+...                               ^
+/home/ub/rails/deadletteroffice/Rakefile:7:in `<top (required)>'
+(See full trace by running task with --trace)

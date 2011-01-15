@@ -6,8 +6,10 @@
   <%= csrf_meta_tag %>
 </head>
 <body>
-<p style="color: green"><%= flash[:error] %></p>
-<%= yield %>
+ <div id="container">
+    <p style="color: green"><%= flash[:error] %></p>
+    
+    <%= yield %>
 
 </body>
 </html>

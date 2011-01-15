@@ -1,6 +1,6 @@
-set :output, "/home/ub/rails/mail/config/cron.log"
+set :output, "/home/ub/rails/deadletteroffice/config/cron.log"
 
-every 2.minutes do
+every 2.hours do
    rake "cron", :environment => :development
 end
 

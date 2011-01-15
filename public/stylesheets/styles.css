@@ -4,6 +4,7 @@
 div.format  {
     margin-top: 15px;
     }
+    
 
 #error_explanation {
   width: 400px;
@@ -21,6 +22,34 @@ div.field_with_errors {
   display: inline;
   margin: 0;
   padding: 0;
-
 } 
+
+body    {
+font-family: 'Lucida Grande', sans-serif;
+}
+
+#container  {
+position: absolute;
+left: 50%;
+width: 600px;
+margin-left: -300px;
+background-color: #E0FFFF;
+padding: 20px;
+}
+
+#header {
+text-align: center;
+}
+
+#fields  {
+float: left;
+}
+
+#message    {
+float: right;
+}
+
+#footer {
+
+}
 

@@ -1,31 +1,43 @@
-<h3>Send your email here</h3>
+  <div id="header">
+    <h3>DEAD LETTER OFFICE</h3>
+  </div>
+  
+  <div id="fields">
+    <%= form_for @email do |f| %>
+    <%= render 'shared/error_messages', :object => f.object %>
 
-<%= form_for @email do |f| %>
-<%= render 'shared/error_messages', :object => f.object %>
+    <div class="format">
+    <%= f.label :name, "Your Name" %><br />
+    <%= f.text_field :name %>
+    </div>
 
-<div class="format">
-<%= f.label :name %><br />
-<%= f.text_field :name %>
-</div>
+    <div class="format">
+    Destination Email<br />
+    <%= f.text_field :email %>
+    </div>
 
-<div class="format">
-Destination email<br />
-<%= f.text_field :email %>
-</div>
+    <div class="format">
+    <%= f.label :set_date, "Delivery Date" %><br />
+    <%= f.text_field :set_date %>
+    </div>
+  </div>
+  
+  <div id="message">
+    <div class="format">
+    <%= f.label :message %><br />
+    <%= f.text_area :message, :rows => 20  %>
+    </div> 
 
-<div class="format">
-<%= f.label :message %><br />
-<%= f.text_area :message %>
-</div> 
+    <div class="format">
+    <%= f.submit "Create" %>
+    </div>
+  </div>
 
-<div class="format">
-<%= f.label :date %><br />
-<%= f.text_field :date %>
-</div>
-
-<div class="format">
-<%= f.submit "Create" %>
-</div>
 
 <% end %>
 
+
+  <div id="footer">
+  </div>
+  
+</div>
