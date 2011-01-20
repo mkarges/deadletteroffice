@@ -6,10 +6,7 @@ gem 'rails', '3.0.1'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3-ruby', :require => 'sqlite3'
-#gem 'beanstalk-client'
 gem 'whenever'
-#gem 'jquery-rails', '>= 0.2.6'
-#gem 'always_verify_ssl_certificates'
 gem 'chronic'
 gem 'taps'
 
